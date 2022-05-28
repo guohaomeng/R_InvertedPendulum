@@ -6,8 +6,8 @@
 
 ## 预览图
 
-![001](https://guohaomeng.github.io/R_InvertedPendulum/image/overview.png)
+![001](./image/overview.png)
 
 ## 仿真动画
 
-![002](https://guohaomeng.github.io/R_InvertedPendulum/image/video.gif)
+![002](./image/video.gif)
