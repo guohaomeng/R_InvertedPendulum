@@ -6,8 +6,8 @@
 
 ## 预览图
 
-![001](./image/overview.png)
+![001](./image/overview1.png)
 
 ## 仿真动画
 
-![002](./image/video.gif)
+![002](./image/video1.gif)
